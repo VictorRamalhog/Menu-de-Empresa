@@ -1,0 +1,193 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(31, 30, 30);
+}
+
+header {
+    width: auto;
+    height: 126px;
+    padding: 0px;
+    border-bottom: solid 36px #ececec;
+}
+
+#logo-empresa {
+    display: inline;
+    width: 9.4%;
+    padding: 0;
+    margin-left: 54px;
+}
+
+#banner {
+    position: absolute;
+    margin-left: 630px;
+    width: 750px;
+    height: 126px;
+    border-top-left-radius: 140px;
+}
+
+nav li {
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 92px;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: rgb(0, 0, 0);
+}
+
+.menu-itens:hover {
+    color: orange;
+}
+
+.aviso {
+    background-color: #bd1111;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    padding-top: 5px;
+    margin-left: 35%;
+    text-align: center;
+    margin-top: 16px;
+    width: 400px;
+    font-size: 15px;
+}
+
+.aviso:hover {
+    background-color: #860c0c;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    padding-top: 5px;
+    margin-left: 35%;
+    text-align: center;
+    margin-top: 16px;
+    width: 400px;
+    font-size: 15px;
+}
+
+#aviso {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+
+.titulo-comentario {
+    background-color: #1161bd;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    padding-top: 5px;
+    margin-left: 1%;
+    text-align: center;
+    margin-top: 60px;
+    width: 400px;
+    font-size: 18px;
+}
+
+.titulo-comentario:hover {
+    background-color: rgba(12, 69, 134, 0.733);
+    padding-bottom: 5px;
+    border-radius: 3px;
+    padding-top: 5px;
+    margin-left: 1%;
+    text-align: center;
+    margin-top: 60px;
+    width: 400px;
+    font-size: 18px;
+}
+
+#titulo-comentario {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.secao-02 {
+    color: orange;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#texto-secao-01 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(209, 209, 209);
+    color: rgb(10, 10, 10);
+    width: 1250px;
+    border-radius: 14px;
+    padding: 10px;
+    margin-top: 7px;
+}
+
+#texto-secao-01:hover {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(182, 182, 182);
+    color: rgb(10, 10, 10);
+    width: 1255px;
+    border-radius: 14px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+#texto-secao-02 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(209, 209, 209);
+    color: rgb(10, 10, 10);
+    width: 1200px;
+    border-radius: 14px;
+    padding: 10px;
+}
+
+#texto-secao-02:hover {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(182, 182, 182);
+    color: #0a0a0a;
+    width: 1205px;
+    border-radius: 14px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+#texto-secao-03 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(209, 209, 209);
+    color: rgb(10, 10, 10);
+    width: 1230px;
+    border-radius: 14px;
+    padding: 10px;
+}
+
+#texto-secao-03:hover {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(182, 182, 182);
+    color: rgb(10, 10, 10);
+    width: 1235px;
+    border-radius: 14px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+#texto-secao-04 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(209, 209, 209);
+    color: rgb(10, 10, 10);
+    width: 1238px;
+    border-radius: 14px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+#texto-secao-04:hover {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(182, 182, 182);
+    color: rgb(10, 10, 10);
+    width: 1245px;
+    border-radius: 14px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+#banner-final {
+    width: 97%;
+    height: 370 px;
+    margin-bottom: 30px;
+}
